@@ -1,0 +1,17 @@
+{
+    "name": "CircularScrollingList.Editor",
+    "references": [
+        "GUID:e8e323ab1582aff42be6cfb10e9d45bc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

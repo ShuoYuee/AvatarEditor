@@ -1,0 +1,7 @@
+﻿iId,iType,fLegLeftX,fLegLeftY,fLegLeftZ,fLegRightX,fLegRightY,fLegRightZ,fHandLeftX,fHandLeftY,fHandLeftZ,fHandRightX,fHandRightY,fHandRightZ,fShouLeftX,fShouLeftY,fShouLeftZ,fShouRightX,fShouRightY,fShouRightZ
+Id,變形程度,左腿長誤差X,左腿長誤差Y,左腿長誤差Z,右腿長誤差X,右腿長誤差Y,右腿長誤差Z,左臂長誤差X,左臂長誤差Y,左臂長誤差Z,右臂長誤差X,右臂長誤差Y,右臂長誤差Z,左肩寬誤差X,左肩寬誤差Y,左肩寬誤差Z,右肩寬誤差X,右肩寬誤差Y,右肩寬誤差Z
+1,1,,,,,,,,,,,,,,,,,,
+2,2,,,,,,,,,,,,,,,,,,
+3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,4,,,,,,,,,,,,,,,,,,
+5,5,,,,,,,,,,,,,,,,,,

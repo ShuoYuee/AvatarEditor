@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &120296
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 459968}
+  - component: {fileID: 2056488}
+  - component: {fileID: 12455804}
+  - component: {fileID: 8165074}
+  - component: {fileID: 11455738}
+  m_Layer: 0
+  m_Name: SR_Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &459968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120296}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 6.75, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!20 &2056488
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120296}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0.019607844}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 0
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!124 &12455804
+Behaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120296}
+  m_Enabled: 1
+--- !u!81 &8165074
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120296}
+  m_Enabled: 1
+--- !u!114 &11455738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28ef8c68bade09b41aca258d42a632f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastTab: 0
+  keyboardMovementSpeed: 5
+  screenEdgeMovementSpeed: 3
+  keyboardRotationSpeed: 3
+  adaptivepanningSpeed: 1
+  panningSpeed: 100
+  mouseRotationSpeed: 200
+  heightDampening: 5
+  keyboardZoomingSensitivity: 10
+  scrollWheelZoomingSensitivity: 25
+  adaptiveScrollWheelSpeed: 1
+  targetsTag:
+  - ioc
+  targetSelect: {fileID: 0}
+  targetOffset: {x: 0, y: 0, z: 0}
+  isFoollowTarget: 1
+  doubleClick: 0
+  isCheckUI: 1
+  maxDistance: 50
+  minDistance: 1
+  focusSpeed: 10
+  targetWeight: 2
+  isCanSetCamera: 1
+  RecordmaxDistance: 100
+  RecordminDistance: 2
+  RecordtargetWeight: 5
+  RecordmouseRotationSpeed: 200
+  AimOriginPoint: {fileID: 0}
+  ShowVisualAreas: 1
+  limitMap: 1
+  center: {x: 0, y: 0, z: 0}
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 1
+  aimMaxHeight: 50
+  aimMinHeight: 0
+  aimlimitX: 50
+  aimlimitZ: 50
+  maxHeight: 50
+  minHeight: 1
+  limitX: 50
+  limitZ: 50
+  CameraRotateLerp: 1
+  moveLerpSpeed: 5
+  rotateLerpSpeed: 5
+  useScreenEdgeInput: 0
+  screenEdgeBorder: 100
+  useKeyboardInput: 1
+  usePanning: 1
+  panningKey: 323
+  useKeyboardZooming: 1
+  dropKey: 101
+  riseKey: 113
+  useScrollwheelZooming: 1
+  useKeyFocus: 1
+  focusKey: 102
+  IsSelfRotate: 0
+  useKeyboardRotation: 1
+  rotateRightKey: 120
+  rotateLeftKey: 122
+  useMouseRotation: 1
+  mouseRotationKey: 324
+  IsFixedXAngle: 0
+  xAngle: 45
+  isClampXAngle: 1
+  clampMinXAngle: 0
+  clampMaxXAngle: 90

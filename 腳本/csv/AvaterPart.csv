@@ -1,0 +1,75 @@
+﻿iId,szName,szBundleName,szResName,iResType,iType,szReadme,iRolePart,szIcon,iResMaterials,szMaterials,szTexture,iGender,szData,szInfor,iLock,szLockInfor,szHue,iSale
+Id,時裝名,Bundle名,資源名,"模型資源類型
+0Resource
+1AB","資料類型
+1 時裝
+2 顏色(材質)
+3 寵物
+4 組合包",時裝說明(中文),時裝穿著部位,圖標資源,"材質資源類型
+0Resource
+1AB",材質球,材質貼圖,"性別
+1 男生
+2 女生
+0 通用",卸裝1-卸裝2-卸裝3;預覽資源類型-Bundle名-Prefab名,時裝介紹文本Key,"是否為活動解鎖
+填寫活動ID",解鎖條件文本Key,"色票
+R-G-B-A","基本回收价格
+?抽?等其它方式?取?使用此价格"
+,,,,,,,,,,,,,,,,,,10
+,,,,,,,,,,,,,,,,,,11
+41,GamePage_Title3,dressrole.bundle,Jersey10,1,1,衣服01,12,OB06,1,dresstexture.bundle;mat_eqpt_12_001_g1_h,texture.bundle;tex_eqpt_12_001_g1_id,2,41;1-propdisplay.bundle-Tops_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,12
+42,GamePage_Title3,dressrole.bundle,Jersey10,1,1,衣服02,12,Jersey_02,1,dresstexture.bundle;mat_eqpt_12_001_g1_h,texture.bundle;tex_eqpt_12_001_g1_id,2,41;1-propdisplay.bundle-Tops_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,255-0-255-255,13
+43,GamePage_Title3,dressrole.bundle,Jersey10,1,1,衣服03,12,Jersey_04,1,dresstexture.bundle;mat_eqpt_12_001_g1_h,texture.bundle;tex_eqpt_12_001_g1_id,2,41;1-propdisplay.bundle-Tops_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-255-255-255,14
+44,GamePage_Title3,dressrole.bundle,Jersey10,1,1,衣服04,12,Jersey_01,1,dresstexture.bundle;mat_eqpt_12_001_g1_h,texture.bundle;tex_eqpt_12_001_g1_id,2,41;1-propdisplay.bundle-Tops_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,15
+51,GamePage_Title4,dressrole.bundle,Shorts10,1,1,褲子01,13,OB05,1,dresstexture.bundle;mat_eqpt_13_001_g1_h,texture.bundle;tex_eqpt_13_001_g1_h_id,2,51;1-propdisplay.bundle-Bottoms_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,16
+52,GamePage_Title4,dressrole.bundle,Shorts10,1,1,褲子02,13,Pants001,1,dresstexture.bundle;mat_eqpt_13_001_g1_h,texture.bundle;tex_eqpt_13_001_g1_h_id,2,51;1-propdisplay.bundle-Bottoms_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,17
+53,GamePage_Title4,dressrole.bundle,Shorts10,1,1,褲子03,13,Pants002,1,dresstexture.bundle;mat_eqpt_13_001_g1_h,texture.bundle;tex_eqpt_13_001_g1_h_id,2,51;1-propdisplay.bundle-Bottoms_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,0-255-255-255,18
+54,GamePage_Title4,dressrole.bundle,Shorts10,1,1,褲子04,13,Pants004,1,dresstexture.bundle;mat_eqpt_13_001_g1_h,texture.bundle;tex_eqpt_13_001_g1_h_id,1,51;1-propdisplay.bundle-Bottoms_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,19
+531,GamePage_Title15,,,1,2,髮色01,6,HAIR01,1,dresstexture.bundle;mat_Primrose_Hair,texture.bundle;tex_Primrose_Hair,2,531,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,20
+532,GamePage_Title15,,,1,2,髮色02,6,HAIR02,1,dresstexture.bundle;mat_Primrose_Hair,texture.bundle;tex_Primrose_Hair,1,531,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,21
+71,GamePage_Title6,dressrole.bundle,Shoes10,1,1,鞋子01,16,OB01,1,dresstexture.bundle;mat_eqpt_16_001_g1_h,texture.bundle;tex_eqpt_16_g1_h_id,2,71;1-propdisplay.bundle-Shoes_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,22
+72,GamePage_Title6,dressrole.bundle,Shoes10,1,1,鞋子02,16,Shoes002,1,dresstexture.bundle;mat_eqpt_16_001_g1_h,texture.bundle;tex_eqpt_16_g1_h_id,2,71;1-propdisplay.bundle-Shoes_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,23
+73,GamePage_Title6,dressrole.bundle,Shoes10,1,1,鞋子03,16,Shoes004,1,dresstexture.bundle;mat_eqpt_16_001_g1_h,texture.bundle;tex_eqpt_16_g1_h_id,2,71;1-propdisplay.bundle-Shoes_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,0-255-255-255,24
+74,GamePage_Title6,dressrole.bundle,Shoes10,1,1,鞋子04,16,Shoes003,1,dresstexture.bundle;mat_eqpt_16_001_g1_h,texture.bundle;tex_eqpt_16_g1_h_id,1,71;1-propdisplay.bundle-Shoes_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,25
+81,GamePage_Title7,dressrole.bundle,Sock10,1,1,襪子01,15,Socks007,1,dresstexture.bundle;mat_eqpt_15_001_g1_h,texture.bundle;tex_eqpt_15_001_g1_h_id,2,81;1-propdisplay.bundle-Sock_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,26
+82,GamePage_Title7,dressrole.bundle,Sock10,1,1,襪子02,15,Socks002,1,dresstexture.bundle;mat_eqpt_15_001_g1_h,texture.bundle;tex_eqpt_15_001_g1_h_id,1,81;1-propdisplay.bundle-Sock_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,27
+83,GamePage_Title7,dressrole.bundle,Sock10,1,1,襪子03,15,Socks001,1,dresstexture.bundle;mat_eqpt_15_001_g1_h,texture.bundle;tex_eqpt_15_001_g1_h_id,2,81;1-propdisplay.bundle-Sock_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-255-255-255,28
+84,GamePage_Title7,dressrole.bundle,Sock10,1,1,襪子04,15,Socks004,1,dresstexture.bundle;mat_eqpt_15_001_g1_h,texture.bundle;tex_eqpt_15_001_g1_h_id,2,81;1-propdisplay.bundle-Sock_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,29
+91,GamePage_Title5,dressrole.bundle,Gloves10,1,1,手套01,14,Gloves007,1,dresstexture.bundle;mat_eqpt_14_001_g1_h,texture.bundle;tex_eqpt_14_001_g1_id,,91;1-propdisplay.bundle-Gloves_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,30
+92,GamePage_Title5,dressrole.bundle,Gloves10,1,1,手套02,14,Gloves001,1,dresstexture.bundle;mat_eqpt_14_001_g1_h,texture.bundle;tex_eqpt_14_001_g1_id,,91;1-propdisplay.bundle-Gloves_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,31
+93,GamePage_Title5,dressrole.bundle,Gloves10,1,1,手套03,14,Gloves004,1,dresstexture.bundle;mat_eqpt_14_001_g1_h,texture.bundle;tex_eqpt_14_001_g1_id,1,91;1-propdisplay.bundle-Gloves_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-255-255-255,32
+94,GamePage_Title5,dressrole.bundle,Gloves10,1,1,手套04,14,Gloves005,1,dresstexture.bundle;mat_eqpt_14_001_g1_h,texture.bundle;tex_eqpt_14_001_g1_id,,91;1-propdisplay.bundle-Gloves_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,33
+1011,GamePage_Title5,dressrole.bundle,Gloves10,1,1,手套05,14,Gloves2,1,dresstexture.bundle;mat_eqpt_14_001_g1_h,texture.bundle;tex_eqpt_14_001_g1_id,2,91;1-propdisplay.bundle-Gloves_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-0-255,33
+1013,GamePage_Title5,dressrole.bundle,Gloves10,1,1,手套05,14,Gloves003,1,dresstexture.bundle;mat_eqpt_14_001_g1_h,texture.bundle;tex_eqpt_14_001_g1_id,2,91;1-propdisplay.bundle-Gloves_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-255-100-255,33
+101,GamePage_Title1,dressrole.bundle,Helmet10,1,1,頭盔01,7,OB02,1,dresstexture.bundle;mat_eqpt_07_001_g1_h,texture.bundle;tex_eqpt_07_001_g0_h_id,1,0;1-propdisplay.bundle-Helmet_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,34
+102,GamePage_Title1,dressrole.bundle,Helmet10,1,1,頭盔02,7,Hat007,1,dresstexture.bundle;mat_eqpt_07_001_g1_h,texture.bundle;tex_eqpt_07_001_g0_h_id,,0;1-propdisplay.bundle-Helmet_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,35
+103,GamePage_Title1,dressrole.bundle,Helmet10,1,1,頭盔03,7,Hat003,1,dresstexture.bundle;mat_eqpt_07_001_g1_h,texture.bundle;tex_eqpt_07_001_g0_h_id,,0;1-propdisplay.bundle-Helmet_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,0-255-255-255,36
+104,GamePage_Title1,dressrole.bundle,Helmet10,1,1,頭盔04,7,Persist MIPS Helmet,1,dresstexture.bundle;mat_eqpt_07_001_g1_h,texture.bundle;tex_eqpt_07_001_g0_h_id,,0;1-propdisplay.bundle-Helmet_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,37
+111,GamePage_Title2,dressrole.bundle,Female_Glasses01,1,1,眼鏡01,11,OB03,1,dresstexture.bundle;mat_eqpt_11_001_g1_h,texture.bundle;tex_eqpt_11_001_g1_h_id,,0;1-propdisplay.bundle-Female_Glasses_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-255-100-255,38
+112,GamePage_Title2,dressrole.bundle,Female_Glasses01,1,1,眼鏡02,11,goggles_06,1,dresstexture.bundle;mat_eqpt_11_001_g1_h,texture.bundle;tex_eqpt_11_001_g1_h_id,,0;1-propdisplay.bundle-Female_Glasses_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,39
+113,GamePage_Title2,dressrole.bundle,Female_Glasses01,1,1,眼鏡03,11,goggles_03,1,dresstexture.bundle;mat_eqpt_11_001_g1_h,texture.bundle;tex_eqpt_11_001_g1_h_id,1,0;1-propdisplay.bundle-Female_Glasses_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,40
+114,GamePage_Title2,dressrole.bundle,Female_Glasses01,1,1,眼鏡04,11,goggles_01,1,dresstexture.bundle;mat_eqpt_11_001_g1_h,texture.bundle;tex_eqpt_11_001_g1_h_id,,0;1-propdisplay.bundle-Female_Glasses_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-255-255-255,41
+115,GamePage_Title2,dressrole.bundle,Female_Glasses01,1,1,眼鏡05,11,goggles_05,1,dresstexture.bundle;mat_eqpt_11_001_g1_h,texture.bundle;tex_eqpt_11_001_g1_h_id,,0;1-propdisplay.bundle-Female_Glasses_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,0-0-255-255,42
+501,GamePage_Title13,dressrole.bundle,Bike10,1,1,車種1,50,bike,1,dresstexture.bundle;mat_bike_merida_001,texture.bundle;tex_bick_01,,0;1-propdisplay.bundle-Bike01_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,43
+502,GamePage_Title13,dressrole.bundle,Bike10,1,1,車種2,50,bike,1,dresstexture.bundle;mat_bike_merida_001,texture.bundle;tex_bick_01,,0;1-propdisplay.bundle-Bike01_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,0-255-0-255,44
+503,GamePage_Title13,dressrole.bundle,Bike10,1,1,車種3,50,bike,1,dresstexture.bundle;mat_bike_merida_001,texture.bundle;tex_bick_01,,0;1-propdisplay.bundle-Bike01_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,45
+504,GamePage_Title13,dressrole.bundle,Bike10,1,1,車種4,50,bike,1,dresstexture.bundle;mat_bike_merida_001,texture.bundle;tex_bick_01,,0;1-propdisplay.bundle-Bike01_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,45
+1121,GamePage_Title18,dressrole.bundle,Frame10,1,1,車架01,51,OB04,1,dresstexture.bundle;mat_bike_merida_001,texture.bundle;tex_bick_01,,1121;1-propdisplay.bundle-Frame_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-0-255-255,46
+1122,GamePage_Title18,dressrole.bundle,Frame10,1,1,車架02,51,FRAME02,1,dresstexture.bundle;mat_bike_merida_001,texture.bundle;tex_bick_01,,1121;1-propdisplay.bundle-Frame_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,47
+1131,GamePage_Title17,dressrole.bundle,Wheel10,1,1,車輪01,52,WHEEL01,1,dresstexture.bundle;mat_bike_62_004_l,texture.bundle;tex_bike_62_004_l,,1131;1-propdisplay.bundle-Wheel_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,255-255-0-255,48
+1132,GamePage_Title17,dressrole.bundle,Wheel10,1,1,車輪02,52,WHEEL02,1,dresstexture.bundle;mat_bike_62_004_l,texture.bundle;tex_bike_62_004_l,,1131;1-propdisplay.bundle-Wheel_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,49
+2021,GamePage_Title11,,006_rolefoot-006_bikefoot,,,,99,ACTION01,,,,,,,,,,
+2022,GamePage_Title11,,007_roleshake-007_bikeshake,,,,99,ACTION02,,,,,,,,,,
+2023,GamePage_Title11,,023_roleall-023_bikeall,,,,99,ACTION03,,,,,,,,,,
+2024,GamePage_Title11,,008_roleshake-008_bikeshake,,,,99,ACTION04,,,,,,,,,,
+181,GamePage_Title16,dressrole.bundle,Pet,1,3,寵物01,18,PET01,,,,,0;1-propdisplay.bundle-Pet_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,50
+182,GamePage_Title16,dressrole.bundle,Pet02,1,3,寵物02,18,PET02,,,,,0;1-propdisplay.bundle-Pet02_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,51
+183,GamePage_Title16,dressrole.bundle,Pet03,1,3,寵物03,18,PET03,,,,,0;1-propdisplay.bundle-Pet03_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,52
+184,GamePage_Title8,dressrole.bundle,Hair10,1,1,髮型01,5,HAIR02,1,dresstexture.bundle;mat_Primrose_Hair,texture.bundle;tex_Primrose_Hair,2,0;1-propdisplay.bundle-Hair_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,53
+185,GamePage_Title8,dressrole.bundle,Hair05,1,1,髮型02,5,HAIR03,1,dresstexture.bundle;mat_Primrose_Hair,texture.bundle;tex_Primrose_Hair,2,0;1-propdisplay.bundle-Hair_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,255-255-0-255,54
+5001,GamePage_Title19,,12-13-14-16,,4,組合包01,,CombinPack,,,,1,0;1-propdisplay.bundle-Wheel_Display,GmStr_GameShop_Infor,,GmStr_GameShop_Sub_EroAward,,55
+5002,GamePage_Title19,,12-13-14-17,,4,組合包02,,CombinPack,,,,2,0;1-propdisplay.bundle-Pet03_Display,GmStr_GameShop_Infor,1,GmStr_GameShop_Sub_EroAward,,56
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
